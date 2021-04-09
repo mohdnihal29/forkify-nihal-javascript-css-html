@@ -1,3 +1,16 @@
-# forkify Project
+<h1>Recipe API App </h1>
 
-Recipe application with custom recipe uploads.
+<h2> Hosted on : https://forkify-nihal.netlify.app/ <h2>
+
+<h3> Steps to use </h3>
+<p>
+1. Open the Website <br>
+2. Search for any recipe (example: pizza) <br>
+3. Find the recipe <br>
+4. Click on the boomark icon to save it to the local storage <br>
+</p>
+
+
+<p>
+  <strong>Technologies used:</strong><br> vanilla Javascript<br> CSS<br> HTML<br>
+</p>
