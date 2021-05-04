@@ -14,3 +14,7 @@
 <p>
   <strong>Technologies used:</strong><br> 1. Vanilla Javascript<br> 2. CSS<br> 3. HTML<br>
 </p>
+
+<P> The Webiste was created as a portfolo project </p>
+
+Author: Nihal Mohammed
